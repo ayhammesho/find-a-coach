@@ -1,2 +1,2 @@
-# find a coach
- find a coach is a Vue js trinaing app to enchant my vue js skills by maxmillian schmartmeler
+# find-a-coach
+find a coach is an VUE JS app apply all what i learned about vue and vuex and vue router
