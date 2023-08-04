@@ -11,7 +11,7 @@ export default {
     };
 
     const response = await fetch(
-      `https://find-a-coach-6dcf0-default-rtdb.firebaseio.com/coaches/${userId}.json`,
+      `https://find-coach-vue-117f8-default-rtdb.firebaseio.com//coaches/${userId}.json`,
       {
         method: "PUT",
         body: JSON.stringify(coachData),
